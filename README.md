@@ -56,7 +56,7 @@ I'm a 2nd-year CSE student obsessed with AI. I build tools that actually do some
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MAYANK-108&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
