@@ -21,7 +21,9 @@
 
 ### 🧠 What I'm Building
 
-I'm a 2nd-year CSE student obsessed with AI. I build tools that actually do something useful — not tutorial clones. Currently focused on LLM-powered applications, ML pipelines, and getting better at DSA every single day.
+2nd-year CSE student building real AI tools — not textbook exercises.  
+I work with LLMs, ML pipelines, and APIs to solve problems that actually matter.  
+Currently sharpening DSA daily (Striver's sheet, C++) and expanding into FastAPI backends.
 
 Self-taught. No coaching. Just code, chai, and consistency. ☕
 
@@ -31,10 +33,10 @@ Self-taught. No coaching. Just code, chai, and consistency. ☕
 
 | Project | What it does | Stack | Live |
 |---|---|---|---|
-| [🤖 AI Resume Screener](https://github.com/MAYANK-108/ai-resume-screener) | Ranks multiple resumes against a job description using TF-IDF + cosine similarity | Python, Streamlit, scikit-learn, pdfplumber, nltk | [▶ Live](https://mayank-ai-resume-screener.streamlit.app/) |
-| [🎬 Movie Recommender](https://github.com/MAYANK-108/movie-recommender) | Content-based movie recommendations using TF-IDF + cosine similarity with live posters via OMDb API | Python, Streamlit, scikit-learn, OMDb API | [▶ Live](https://mayank-movie-recommender.streamlit.app) |
 | [🔍 Fake News Analyzer](https://github.com/MAYANK-108/fake-news-analyzer) | Detects if news is real, fake, misleading or unverified with confidence scoring | Python, Streamlit, Groq, Llama 3.1 | [▶ Live](https://fake-news-analyzer-ai.streamlit.app) |
 | [📡 AI Radar](https://github.com/MAYANK-108/AI-Radar) | Monitors RSS feeds, scores AI tool launches 1–10 using LLM, sends Telegram alerts | Python, Groq, feedparser, Telegram API | — |
+| [🤖 AI Resume Screener](https://github.com/MAYANK-108/ai-resume-screener) | Ranks multiple resumes against a job description using TF-IDF + cosine similarity | Python, Streamlit, scikit-learn, pdfplumber, nltk | [▶ Live](https://mayank-ai-resume-screener.streamlit.app/) |
+| [🎬 Movie Recommender](https://github.com/MAYANK-108/movie-recommendation-system)) | Content-based movie recommendations using TF-IDF + cosine similarity with live posters via OMDb API | Python, Streamlit, scikit-learn, OMDb API | [▶ Live](https://mayank-movie-recommender.streamlit.app) |
 | [💱 Currency Converter](https://github.com/MAYANK-108/currency-converter) | Real-time currency conversion across 30+ currencies with clean UI | Python, Streamlit, ExchangeRate API | [▶ Live](https://currency-converter-108.streamlit.app) |
 
 ---
@@ -58,10 +60,9 @@ Self-taught. No coaching. Just code, chai, and consistency. ☕
 
 ### 📈 Currently
 
-- 🤖 Building AI-powered tools with LLMs and traditional ML
-- 📚 Following Striver's DSA Sheet — solving problems topic-wise daily in C++
-- 🎯 Goal: Strong placement (12-15 LPA+) + real AI project portfolio by end of college
-- ⚡ Next: FastAPI backend development + ML fundamentals
+- 🔍 Deepening LLM integration skills — prompt engineering → agentic workflows
+- 📚 Striver's DSA Sheet daily — Arrays, Trees, Graphs (C++)
+- ⚡ Learning FastAPI to add proper REST backends to my ML projects  
 
 ---
 
