@@ -61,7 +61,7 @@ Self-taught. No coaching. Just code, chai, and consistency. ☕
 ### 📈 Currently
 
 - 🔍 Deepening LLM integration skills — prompt engineering → agentic workflows
-- 📚 Striver's DSA Sheet daily — Arrays, Trees, Graphs (C++)
+- 📚 DSA daily — Arrays, Trees, Graphs (C++)
 - ⚡ Learning FastAPI to add proper REST backends to my ML projects  
 
 ---
