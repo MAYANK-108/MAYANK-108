@@ -23,7 +23,7 @@
 
 2nd-year CSE student building real AI tools — not textbook exercises.  
 I work with LLMs, ML pipelines, and APIs to solve problems that actually matter.  
-Currently sharpening DSA daily (Striver's sheet, C++) and expanding into FastAPI backends.
+Currently sharpening DSA daily and expanding into FastAPI backends.
 
 Self-taught. No coaching. Just code, chai, and consistency. ☕
 
