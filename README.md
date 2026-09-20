@@ -25,7 +25,7 @@
 I work with LLMs, ML pipelines, and APIs to solve problems that actually matter.  
 Currently sharpening DSA daily and expanding into FastAPI backends.
 
-Self-taught. No coaching. Just code, chai, and consistency. ☕
+Going from idea → deployed app — Streamlit, Groq, scikit-learn, and whatever it takes.
 
 ---
 
