@@ -36,7 +36,7 @@ Going from idea → deployed app — Streamlit, Groq, scikit-learn, and whatever
 | [🔍 Fake News Analyzer](https://github.com/MAYANK-108/fake-news-analyzer) | Detects if news is real, fake, misleading or unverified with confidence scoring | Python, Streamlit, Groq, Llama 3.1 | [▶ Live](https://fake-news-analyzer-ai.streamlit.app) |
 | [📡 AI Radar](https://github.com/MAYANK-108/AI-Radar) | Monitors RSS feeds, scores AI tool launches 1–10 using LLM, sends Telegram alerts | Python, Groq, feedparser, Telegram API | — |
 | [🤖 AI Resume Screener](https://github.com/MAYANK-108/ai-resume-screener) | Ranks multiple resumes against a job description using TF-IDF + cosine similarity | Python, Streamlit, scikit-learn, pdfplumber, nltk | [▶ Live](https://mayank-ai-resume-screener.streamlit.app/) |
-| [🎬 Movie Recommender](https://github.com/MAYANK-108/movie-recommendation-system)) | Content-based movie recommendations using TF-IDF + cosine similarity with live posters via OMDb API | Python, Streamlit, scikit-learn, OMDb API | [▶ Live](https://mayank-movie-recommender.streamlit.app) |
+| [🎬 Movie Recommender](https://github.com/MAYANK-108/movie-recommendation-system) | Content-based movie recommendations using TF-IDF + cosine similarity with live posters via OMDb API | Python, Streamlit, scikit-learn, OMDb API | [▶ Live](https://mayank-movie-recommender.streamlit.app) |
 | [💱 Currency Converter](https://github.com/MAYANK-108/currency-converter) | Real-time currency conversion across 30+ currencies with clean UI | Python, Streamlit, ExchangeRate API | [▶ Live](https://currency-converter-108.streamlit.app) |
 
 ---
